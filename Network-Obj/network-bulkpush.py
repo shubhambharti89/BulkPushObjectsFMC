@@ -1,7 +1,7 @@
 """
 This python module was created by Shubham Bharti.
 Feel free to send comments/suggestions/improvements.  Either by email: shbharti@cisco.com or more importantly via a pull
-request from the github repository: https://wwwin-github.cisco.com/shbharti/FMCAPI
+request from the github repository: https://github.com/shubhambharti89/FMCAPI
 """
 
 import requests
