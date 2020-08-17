@@ -10,7 +10,7 @@ Below are the object names which FMC does not accept
 - There should not be a space at the beginning of the object name and not semi colon at end
 
 
-This workflow requires CSV File as an input - Sample CSV file is provided in this folder itself. 
+This workflow requires CSV File as an input - Sample CSV file is provided in this folder itself. FIll the CSV file with required input and run the "url-bulkpush.py"
 
 The limit of Bulk push is : 
 
