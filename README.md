@@ -23,7 +23,7 @@ All REST requests will be logged in these two log files on FMC. Search for your 
 ```
 This script also provides you with a log file in the same folder with success and failure responses. 
 
-## Network Objects Bulk Push
+### Network Objects Bulk Push
  
  This API workflow can push all three types of network objects in bulk to the FMC:
  
@@ -38,6 +38,15 @@ This workflow requires CSV File as an input - Sample CSV file is provided in thi
 
 
 ### Port Objects Bulk Push 
+
+This API workflow can push all three types of port objects in bulk to the FMC:
+
+ - TCP/UDP Port objects
+
+ - ICMPv4 Objects - Please make sure the ICMP type and code have bee validated.
+
+ - ICMPv6 Objects - Please make sure the ICMP type and code have bee validated.
+
 
 This workflow requires CSV File as an input - Sample CSV file is provided in this folder itself. Fill the CSV file with required input and run the "port-bulkpush.py"
 
