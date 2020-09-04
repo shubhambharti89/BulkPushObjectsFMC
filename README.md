@@ -52,6 +52,8 @@ This workflow requires CSV File as an input - Sample CSV file is provided in thi
 
 ### URL Objects Bulk Push 
 
+This API workflow can push URL objects in bulk to the FMC.
+
 This workflow requires CSV File as an input - Sample CSV file is provided in this folder itself. Fill the CSV file with required input and run the "url-bulkpush.py"
 
 
