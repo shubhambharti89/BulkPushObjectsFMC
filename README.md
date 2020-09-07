@@ -2,7 +2,9 @@
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/shubhambharti89/BulkPushObjectsFMC)
 
-API workflow to push objects in Bulk to FMC. This script has been tested with FMC version 6.4 and above and should be able to run on any machine with required modules present. To read more about the functioning, please read : https://www.cisco.com/c/en/us/support/docs/security/firepower-management-center/215972-push-objects-in-bulk-to-fmc-using-rest-a.html
+API workflow to push objects in Bulk to FMC. This script has been tested with FMC version 6.4 and above and should be able to run on any machine with required modules present. 
+
+To read more about the functioning of this script, please read : https://www.cisco.com/c/en/us/support/docs/security/firepower-management-center/215972-push-objects-in-bulk-to-fmc-using-rest-a.html
 
 The limit of Bulk push is : 
 
